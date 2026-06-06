@@ -45,4 +45,4 @@ jobs:
           name: ${{ matrix.name }}
           path: 'release/chaoxing.zip'
       - name: Run main.py
-        run: python main.py -u 13429300702 -p Zhongyq0060220@ -l 261789273 
+        run: python main.py -u 13429300702 -p Zhongyq20060220@ -l 261789273 
